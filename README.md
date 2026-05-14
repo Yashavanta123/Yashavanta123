@@ -1,7 +1,6 @@
 ![Banner](./banner.png)
 
-I'm an aspiring programmer from India.
-
+![Location](https://img.shields.io/badge/location-India-orange?style=for-the-badge&logo=googlemaps)
 ![Followers](https://img.shields.io/github/followers/Yashavanta123?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Yashavanta123?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Yashavanta123&style=for-the-badge)
